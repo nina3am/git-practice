@@ -1,0 +1,3 @@
+Name: Nina
+Age: 30
+Favorite Color: Green
